@@ -1,5 +1,5 @@
 body{
-	background: lime;
+	background: #1ABC9C;
 	font-size: 16pt;
 	color:black;
 	font-family: 'Abel', sans-serif;
@@ -14,7 +14,7 @@ a{
 
 h1{
 	font-weight: bold;
-	color: red;
+	color: black;
 	
 	
 	}
